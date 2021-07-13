@@ -1,0 +1,128 @@
+{
+    "main": {
+        "name": "Erwin M. Dioso",
+        "description": "I'm a web development engineer and I use react and python to develop pages...",
+        "image": "profilepic.jpg",
+        "bio": "Im an aspiring Lead Tech Engineer. Always learning new Tech that can contribute to the humanity.",
+        "contactmessage": "If you need relentless goal achiever that's me!.",
+        "email": "erwin.m.dioso@gmail.com",
+        "phone": "555-555-5555",
+        "github": "https://github.com/",
+        "project": "https://github.com/",
+        "address": {
+            "street": "Khalidiya",
+            "city": "Abu Dhabi)",
+            "state": "Abu Dhabi"
+        },
+        "website": "https://github.com/",
+        "resumedownload": "https://github.com/",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "https://github.com/",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "twitter",
+                "url": "http://twitter.com",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "http://instagram.com/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "React, Node.js, Expert",
+        "education": [
+            {
+                "school": "Princeton",
+                "degree": "Computer Science",
+                "graduated": "July 2021",
+                "description": "Nothing like it."
+            },
+            {
+                "school": "Harvard",
+                "degree": "Computer Science",
+                "graduated": "Augus 2021",
+                "description": "I will do it again."
+            }
+        ],
+        "work": [
+            {
+                "company": "Warp Co.",
+                "title": "Founder",
+                "years": "July 2021 - Present",
+                "description": "Multiverse travelling made faster"
+            },
+            {
+                "company": "Gravity Co.",
+                "title": "Founder",
+                "years": "July 2021 - Present",
+                "description": "We all fly."
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python",
+                "level": "60%"
+            },
+            {
+                "name": "VueJs",
+                "level": "55%"
+            },
+            {
+                "name": "ReactJs",
+                "level": "50%"
+            },
+            {
+                "name": "CSS",
+                "level": "90%"
+            },
+            {
+                "name": "JAVA",
+                "level": "80%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project1.jpg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project2.jpg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project3.jpg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project4.jpg",
+                "url": "https://www.google.com"
+            }
+        ]
+    }
+}
